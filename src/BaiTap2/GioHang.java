@@ -12,7 +12,6 @@ public class GioHang {
     public void setHinhthucTT(IThanhToan hinhThucTT) {
         this.hinhThucTT = hinhThucTT;
     }
-
     public void setHh(ArrayList<HangHoa> dSHH) {
         this.dSHH = dSHH;
     }

@@ -17,12 +17,14 @@ public class MainBaiTap2 {
         HangHoa hh1 = new HangHoa("IP X",15000000,"Chinh hang, 100%");
         HangHoa hh2 = new HangHoa("IP XS",11000000,"Xach tay, Like new 95%");
         HangHoa hh3 = new HangHoa("IP 8",600000,"Lock, 100%");
+        HangHoa hh4 = new HangHoa("IP SE 2020",9500000,"Chinh hang, 100%");
         
         ArrayList<HangHoa> ds1 = new ArrayList<>();
         ds1.add(hh1);
         ds1.add(hh2);
         ArrayList<HangHoa> ds2 = new ArrayList<>();
         ds2.add(hh3);
+        ds2.add(hh4);
         
         GioHang gh = new GioHang();
         

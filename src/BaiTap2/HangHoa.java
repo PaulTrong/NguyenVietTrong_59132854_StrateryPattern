@@ -17,7 +17,7 @@ public class HangHoa {
     public String getMoTa() {
         return moTa;
     }
-
+    
     public HangHoa(String tenHH, int gia, String moTa) {
         this.tenHH = tenHH;
         this.gia = gia;
